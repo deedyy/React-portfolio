@@ -1,18 +1,19 @@
 import './Portfolio.css'
 import portfolio1 from '../../assets/portfolio1.jpg'
+import heroImg from '../../assets/heroImg.png'
 
 
 const data= [
   {
   id: 1,
-  Image: portfolio1,
+  Image: heroImg,
   title: 'HireCraft',
   github:"https://github.com/learnable-2022/HCR-FE",
   demo:"https://www.crafthire.online/"
   },
   {
     id: 2,
-    Image: portfolio1,
+    Image: heroImg,
     title: 'HireCraft',
     github:"https://github.com/learnable-2022/HCR-FE",
     demo:"https://www.crafthire.online/"
@@ -20,7 +21,7 @@ const data= [
 
     {
       id: 3,
-      Image: portfolio1,
+      Image: heroImg,
       title: 'HireCraft',
       github:"https://github.com/learnable-2022/HCR-FE",
       demo:"https://www.crafthire.online/"
