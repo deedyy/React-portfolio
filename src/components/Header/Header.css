@@ -74,13 +74,13 @@ header{
     }
     .me{
         top: 50%;
-        left: 16%;
+        left: 8%;
         height: 20rem;
         
     }
     .header__container{
       top: 5%;
-      left: 16%;  
+      left: 8%;  
     }
     
 }
