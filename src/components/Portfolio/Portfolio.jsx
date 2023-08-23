@@ -1,6 +1,8 @@
 import './Portfolio.css'
-import portfolio1 from '../../assets/portfolio1.jpg'
 import heroImg from '../../assets/heroImg.png'
+import Discover from '../../assets/Discover.jpg'
+import note from '../../assets/note.jpg'
+
 
 
 const data= [
@@ -13,18 +15,18 @@ const data= [
   },
   {
     id: 2,
-    Image: heroImg,
-    title: 'HireCraft',
-    github:"https://github.com/learnable-2022/HCR-FE",
-    demo:"https://www.crafthire.online/"
+    Image: Discover,
+    title: 'Comic Zone',
+    github:"https://github.com/ComicZone",
+    demo:""
     },
 
     {
       id: 3,
-      Image: heroImg,
-      title: 'HireCraft',
-      github:"https://github.com/learnable-2022/HCR-FE",
-      demo:"https://www.crafthire.online/"
+      Image: note,
+      title: 'NotePad App',
+      github:"https://github.com/deedyy/Notepad-App",
+      demo:"https://notepad-app-alpha.vercel.app/"
       },
 ]
 
